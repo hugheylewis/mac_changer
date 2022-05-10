@@ -9,8 +9,8 @@
 # This program will soon incorporate a simple GUI to provide new Linux users
 # a simple and straightforward experience with early penetration testing techniques.
 #
-#
-#
+# *** Please utilize the `help` menu with either -h or --help if you need information on
+# which flags to use in which order.
 #
 #
 #
